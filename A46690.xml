@@ -1,0 +1,698 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Bugbrook in Northamptonshire, May 15, 1642, upon the collection for Ireland condemned in the morning, in the church, before the whole congregation for popery, and in the afternoone there, for having many lyes in it of a high nature / published by the authour in a just vindication of himselfe from that unjust scandall.</title>
+            <author>Jay, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46690</idno>
+            <idno type="STC">Wing J496</idno>
+            <idno type="STC">ESTC R43310</idno>
+            <idno type="EEBO-CITATION">27155521</idno>
+            <idno type="OCLC">ocm 27155521</idno>
+            <idno type="VID">110014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110014)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1721:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Bugbrook in Northamptonshire, May 15, 1642, upon the collection for Ireland condemned in the morning, in the church, before the whole congregation for popery, and in the afternoone there, for having many lyes in it of a high nature / published by the authour in a just vindication of himselfe from that unjust scandall.</title>
+                  <author>Jay, George.</author>
+               </titleStmt>
+               <extent>[8], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XLII.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Jay by Wing; "To the Reader" signed: G.I."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians VI, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Charity --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110014:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at Bugbrook in Northamptonſhire, May 15. 1642.
+upon the collection for <hi>Ireland.</hi> Condemned in the Morning, in the
+Church, before the whole Congregation for Popery: and in the afternoone there,
+for having many lyes in it of a high nature.</p>
+            <p>
+               <hi>Publiſhed by the Authour in a juſt vindica<g ref="char:EOLhyphen"/>tion of
+himſelfe from that unjuſt ſcandall.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 101.7.</hi>
+               </bibl> 
+               <p>He that worketh deceit, ſhall not dwell within my houſe: he
+that tel<g ref="char:EOLhyphen"/>leth lyes, ſhall not tarry in my ſight.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by THO: HARPER, MDCXLII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110014:2"/>
+            <pb facs="tcp:110014:2"/>
+            <head>To the underſtanding Reader.</head>
+            <opener>
+               <salute>Judicious Sir:</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Proteſt I doe even bluſh to thinke how I ſhall
+bee cenſured for pub<g ref="char:EOLhyphen"/>liſhing (in this printing time) this tumultuary
+exerciſe of mine, <hi>opus unius aut alterius diei,</hi> (longer time I could
+hardly afford my ſelfe, it being my uſuall cuſtome to preach twice every
+Lords day, as I did then) but I am as it were forced to doe it, in reſpect of
+my people committed to my charge, and in ten<g ref="char:EOLhyphen"/>derneſſe to mine owne
+reputation, but eſpecially for the honour of Gods truth, and the Goſpell of
+Ieſus Chriſt. For preſently after I had read the Act for the contribution
+towards the reliefe of our poore diſtreſſed brethren in Ireland, and en
+ded this Sermon concerning it, before I came out of the Pulpit, it was ſaid
+that it might have been <pb facs="tcp:110014:3"/>preached at Rome; and after the end of my
+af<g ref="char:EOLhyphen"/>ternoones Sermon, I was told, that I had ſpoken many lyes that morning in
+the Pulpit of a high nature, for which I ſhould be made to bee aſha<g ref="char:EOLhyphen"/>med.
+Now if theſe words ſhould ſettle a beliefe in any of my Pariſh (which
+they might, if I ſhould ſilently paſſe them over) I may aske the
+queſtion with the Prophet, 
+<note place="margin">Eſay 53.1.</note> 
+               <hi>Who will beleeve our
+re<g ref="char:EOLhyphen"/>port?</hi> How can my doctrine edifie, or my Ser<g ref="char:EOLhyphen"/>mons benefit my auditors,
+or who will credit me? how muſt I be diſeſteemed by thoſe amongſt
+whom I live? 
+<note place="margin">Eſay 9.15.</note> For the Scripture ſaith,
+<hi>That the anci<g ref="char:EOLhyphen"/>ent and honourable man is the head: and the Prophet that
+telleth lyes is the tayle.</hi> Laſtly, how is God diſhonoured, when his
+ſacred Meſſage ſhall openly be called a Lie? If I ſhould paſſe it
+over in ſilence, were not this to ſuffer <hi>Gods glory to be turned into
+ſhame?</hi> 
+               <note place="margin">Pſal. 4.2.</note> When you have read it (which
+is ſoone done) I beſeech you tell me whether I have deſerved ſuch ill
+lan<g ref="char:EOLhyphen"/>guage as was given me publiquely for it, or for ſuch kinde of preaching
+to be called a papiſticall Prieſt, as they uſually doe; <hi>I</hi> have
+not added nor diminiſhed a word of that <hi>I</hi> ſpoke in the Pulpit, 
+<pb facs="tcp:110014:3"/>which if <hi>I</hi> ſhould doe, <hi>I</hi> muſt looke to heare
+of it with a witneſſe, for there are thoſe who take notes of all
+<hi>I</hi> ſay, God grant with better hearts then the Scribes and Phariſees
+heard our Savi<g ref="char:EOLhyphen"/>our, and not with purpoſe to have me arraigned, as at the
+laſt day, for every idle word.</p>
+            <p>
+               <hi>I</hi> am ſure of it, when <hi>I</hi> have laboured in Gods
+vineyard with all my ſtrength, and ſincerely taught the ſacred truth of
+his holy word, endea<g ref="char:EOLhyphen"/>vouring to enfeeble the hands of wickedneſſe, by
+exciting unto workes of holineſſe, piety, and obe<g ref="char:EOLhyphen"/>dience to the Law.</p>
+            <p>The bold <hi>Antinomians</hi> have cryed me down for a falſe
+Prophet (and all others who of late have walkt in the ſame path, have beene
+condem<g ref="char:EOLhyphen"/>ned, one of them called openly, A curſed Prea<g ref="char:EOLhyphen"/>cher of the Law.)</p>
+            <p>Beſides, when <hi>I</hi> have otherwiſe faithfully done my
+duty in my place, according to the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw eſtabliſht, <hi>I</hi> have publiquely in the Church beene
+rebuked, and told of an Order to the contrary in the Parliament (of whoſe
+wiſedome and juſtice <hi>I</hi> have ſuch confidence, that <hi>I</hi>
+will ever be ready to pay unto it that duty and obedience which wee <pb facs="tcp:110014:4"/>all owe unto it) which they could not produce, and upon ſearch
+<hi>I</hi> have found that there was no ſuch thing.</p>
+            <p>My uſage hath beene ſuch, that ſome of my e<g ref="char:EOLhyphen"/>nemies have
+wondred how fleſh and blood (as <hi>I</hi> have beene informed) was able to
+beare it, and truly without the great bleſsing of God, <hi>illius oneri
+ſuccubuiſlem.</hi>
+            </p>
+            <p>
+               <hi>I</hi> have ſuffered ſo often, and ſo many words of
+diminution, and diſparagement, that they have beene the cloathing that
+<hi>I</hi> have every day put on; <hi>I</hi> have publiquely beene uſed ſo
+contemptibly, that in mee the profeſsion ſuffereth. And pri<g ref="char:EOLhyphen"/>vately
+<hi>I</hi> have beene ſmitten by the tongues of thoſe from whom <hi>I</hi>
+thought <hi>I</hi> had deſerved en<g ref="char:EOLhyphen"/>couragements.</p>
+            <p>My words have beene altered and changed, ſome left out, and
+ſome put in, as much as would ſerve for a calumnie, and no more, and taught
+to ſpeake a new thing from the ſcope of my intenti<g ref="char:EOLhyphen"/>on, and then faſtned
+and fathered on mee, as naughty perſons lay their baſtards at honeſt mens
+doores. So <hi>I</hi> may truly ſay with <hi>David, That is laid to my charge
+which I knew not.</hi> 
+               <pb facs="tcp:110014:4"/>And to heape up affliction upon affliction,
+with<g ref="char:EOLhyphen"/>out any pitty to my weake and ſickly body, they unmercifully demand more
+then the ſull tale of bricke, and yet ſome of them afford me little, 
+<note place="margin">Exod. 5 7.8.</note> ſome no ſtraw at
+all.</p>
+            <p>And not withſtanding all this, <hi>I</hi> have given all fitting
+reſpect to the perſons of all, although <hi>I</hi> have hated ſome mens
+indiſcretions and errors: I have done curteſies to ſome of them even
+againſt their wills, <hi>that ſo by my well doing I might put to
+ſilence</hi> (according to the advice of Saint <hi>Peter) the ignorance of
+fooliſh men.</hi> 
+               <note place="margin">1 Pet. 2.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>And that I might make it appear to the world, 
+<note place="margin">Act. 24.16.</note> 
+               <hi>that I have laboured to
+have a cleare con<g ref="char:EOLhyphen"/>ſcience void of offence both towards God and towards
+men:</hi> that ſo at the laſt day (when no colours ſhall do us good, when
+no cloake of holineſſe ſhall cover our malice and hypocriſie, for we
+ſhall be judged naked) by the merits of my Saviour, and faith in his blood,
+<hi>I</hi> might ſtand in<g ref="char:EOLhyphen"/>nocent before the great Tribunall of Ieſus
+Chriſt, in whom <hi>I</hi> ſhall ever profeſſe my ſelfe to be</p>
+            <closer>
+               <signed>Your ſervant, <hi>G. I.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110014:5"/>
+            <pb n="1" facs="tcp:110014:5"/>
+            <head>A Sermon preached upon the benevolence for Ireland.</head>
+            <epigraph>
+               <bibl>
+                  <hi>GAL. 6.10.</hi>
+               </bibl>
+               <q> 
+                  <p>As we have therefore opportuni<g ref="char:EOLhyphen"/>tie let us doe good unto all men,
+eſpe<g ref="char:EOLhyphen"/>cially to them who are of the houſhold of faith.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Saviour Chriſt doth reduce the ten Commandements un<g ref="char:EOLhyphen"/>to two,
+the love of God, the love of our neighbour, <hi>Luke</hi> 10.28. Saint
+<hi>Paul</hi> includes all in one word <hi>love,</hi> as you may finde it in
+the 14. verſe of the precedent Chapter. <hi>All the law is fulfilled 
+<pb n="2" facs="tcp:110014:6"/>in one word, even in this, Thou ſhalt love thy neighbour as
+thy ſelfe.</hi> But then this love muſt bee active, and working, not lazie
+and idle, but practicall, ſhewing it ſelfe in actions of charity without
+wearineſſe: And the Apoſtle gives a good reaſon for it in the verſe
+that goes before my Text, <hi>Let us not be weary in well-doing: for in due
+ſeaſon we ſhall reap if wee faint not.</hi>
+            </p>
+            <p>As we have therefore opportunity, let us doe good unto all men,
+eſpecially to them who are of the houſhold of Faith.</p>
+            <p>In which words I obſerve theſe parts: Firſt, an act, <hi>Let
+us doe:</hi> Secondly, the qua<g ref="char:EOLhyphen"/>lity of it, <hi>Good:</hi> Thirdly, the object
+in ge<g ref="char:EOLhyphen"/>nerall tearmes, <hi>Vnto all men;</hi> In ſpeciall tearmes, <hi>The
+houſhold of Faith.</hi> Fourthly, the time when, <hi>Whileſt we have
+opportunity:</hi> Fifthly, the motive, or reaſon perſwading us thereunto,
+intimated in the illative par<g ref="char:EOLhyphen"/>ticle of my Text, <hi>Therefore;</hi> which
+referres us backe to take a view of what hath been ſayd before: and there we
+ſhall finde a reaſon given in the verſe immediatly pre<g ref="char:EOLhyphen"/>ceding 
+<pb n="3" facs="tcp:110014:6"/>my Text; becauſe <hi>wee in due ſeaſon ſhall
+reap.</hi> As if hee ſhould have ſaid, If we ſow our good workes with a
+charitable hand upon all men, eſpecially upon the houſhold of Faith, we
+ſhall in the time of gathering at harveſt, when the Wheat ſhall bee
+gathered into the Garner, and the Chaffe burnt with unquenchable fire, reap a
+plentifull crop, a full, ample, and gracious reward of our Charity, <hi>In due
+ſeaſon we ſhall reap if we faint not.</hi> So as for the ſprinkling and
+ſcattering of a ſmall portion of our goods in a convenient ſeed<g ref="char:EOLhyphen"/>time for
+workes of charity, wee ſhall have a large returne of the principall, with
+intereſt, in the ſeaſon of harveſt at the laſt day.</p>
+            <p>
+               <hi>As we have therefore opportunity, let us doe good unto all
+men, eſpecially to them who are of the houſhold of faith.</hi>
+            </p>
+            <p>I begin with the firſt parts, the act, and the quality of it:
+<hi>Let us doe good.</hi>
+            </p>
+            <p>
+               <hi>Above all things,</hi> ſaith the Apoſtle, <hi>put on
+Charity, which is the bond of perfection,</hi> Co<g ref="char:EOLhyphen"/>loſſ. <pb n="4" facs="tcp:110014:7"/>3.14. <hi>Now abideth Faith, Hope and Charity; but the greateſt of
+theſe is Charitie,</hi> 1 Cor. 13. ult.</p>
+            <p>
+               <hi>David</hi> calls that man happy, whoſe ſins are covered:
+<hi>Beatus vir cujus tecta ſunt pec<g ref="char:EOLhyphen"/>cata: Bleſſed is hee whoſe
+unrighteouſneſſe is forgiven, and whoſe ſinne is covered,</hi>
+Pſal. 32.12.</p>
+            <p>And <hi>Salomon</hi> ſayes, <hi>That love covers all
+ſinnes,</hi> Prov. 10.12. And St. <hi>Peter</hi> ſayes, that <hi>Love
+covers a multitude of ſinnes. Mul<g ref="char:EOLhyphen"/>titudinem peccatorum operit charitas; above
+all things have fervent Charity: for charity covers a multitude of
+ſinnes,</hi> 1 Pet. 4.8.</p>
+            <p>
+               <hi>Though I ſpeake with the tongues of Men and Angels, and have
+not Charity,</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>I am but as ſounding
+Braſſe, and a tinck<g ref="char:EOLhyphen"/>ling Cymball. And though I have the gift of
+Propheſie, and the underſtanding all myſte<g ref="char:EOLhyphen"/>ries, and all knowledge, and
+though I have all faith, ſo as I could remove mountaines, and have not
+Charity, I am nothing.</hi>
+            </p>
+            <p>
+               <hi>Therefore whileſt wee have opportunity, let us doe good unto
+all men; eſpecially to thoſe of <pb n="5" facs="tcp:110014:7"/>the houſhold of
+faith.</hi>
+            </p>
+            <p>Hee that ſhall ſay I have quieted my thoughts through the
+merits of Chriſt Je<g ref="char:EOLhyphen"/>ſus, and my faith in him, and that I am re<g ref="char:EOLhyphen"/>conciled,
+and have made my peace with God, and therefore from henceforth I may ſay,
+with Saint <hi>Paul,</hi> 
+               <note place="margin">2 Tim. 4.8.</note> that <hi>J know a crown of
+righteouſneſſe is laid up for me,</hi> and hath not charity, deceives
+himſelfe, and the truth is not in him.</p>
+            <p>It was moſt excellent counſell which the Prophet
+<hi>Daniel</hi> gave King <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar, Breake off thy ſinnes by
+righteouſneſſe, 
+<note place="margin">Dan. 4.17.</note> and thy iniquity by ſhewing
+mercy to the poore.</hi>
+            </p>
+            <p>The man that ſtood before <hi>Cornelius</hi> in bright cloathing
+told him, 
+<note place="margin">Act. 10.30.</note> 
+               <hi>that his praiers were
+heard, and that his almes deeds were had in remembrance in the ſight of
+God.</hi>
+            </p>
+            <p>
+               <hi>Therefore while we have opportunity, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>To doe good, and communicate forget not, 
+<note place="margin">Heb. 13 16.</note> for with ſuch ſacrifice
+the Lord is well plea<g ref="char:EOLhyphen"/>ſed.</hi>
+            </p>
+            <p>
+               <hi>Eſurivi,</hi> ſaies our Saviour Chriſt, <hi>I was an
+hungery, and yee gave me meate, I was <pb n="6" facs="tcp:110014:8"/>thirſtie, and yee
+gave me drinke, I was a ſtran<g ref="char:EOLhyphen"/>ger and yee took me in, naked and yee cloathed
+me, 
+<note place="margin">Matt. 25.35</note> I was ſick and yee
+viſited me, I was in priſon, and yee came to me, therefore venite benedicti
+patris mei, come yee bleſſed of my father, posſi<g ref="char:EOLhyphen"/>dete regnum, take
+poſſesſion of an eternall king<g ref="char:EOLhyphen"/>dome:</hi> the declarative reaſon is,
+<hi>Quia eſurivi, J was an hungred and yee gave me meat.</hi>
+            </p>
+            <p>
+               <hi>Therefore whilſt we have opportunitie, let us doe good unto
+all men, &amp;c.</hi>
+            </p>
+            <p>And ſo I come unto the object, 
+<q>All men.</q>
+            </p>
+            <p>What unto our enimies? that is a hard matter, that goes againſt
+the haire; a taske that will ſtartle fleſh and blood to under<g ref="char:EOLhyphen"/>take, but
+this is a law which our Saviour Chriſt doth impoſe upon us; <hi>But I ſay
+unto you, 
+<note place="margin">Mat. 5.44.</note> love your enemies.</hi>
+            </p>
+            <p>Antiently <hi>lex talionis</hi> was in uſe with the Jewes, and
+the Gentiles, as may be gathe<g ref="char:EOLhyphen"/>red out of the 38. of the ſame chap. And this
+to many ſeemed a naturall and a iuſt law, as we find in <hi>Ariſt. A.
+Gellius, Alex. ab Alexan.</hi> and others.</p>
+            <pb n="7" facs="tcp:110014:8"/>
+            <p>
+               <hi>Plutarch</hi> reporteth that the firſt of the houſe of the
+<hi>Cornelii</hi> that was burned after his death was <hi>Sylla,</hi> fearing
+the ſame pu<g ref="char:EOLhyphen"/>niſhment, <hi>lege talionis,</hi> ſhould bee inflicted on him
+which his enemy <hi>Marius</hi> had ſuffe<g ref="char:EOLhyphen"/>red, whom he pluckt out of his
+grave.</p>
+            <p>But our Saviour croſſing this law, ſaith, 
+<note place="margin">Mat 5.38.</note> 
+               <hi>this was a law of old, an
+eie for an eie, and a tooth for a tooth; But I ſay unto you, doe good to
+thoſe that hurt you, bleſſe them that curſe you, pray for your
+perſecutors,</hi> as in the ſame Chap. verſe 44.</p>
+            <p>I confeſſe that this is the greateſt temp<g ref="char:EOLhyphen"/>tation, and the
+hardeſt encounter that fleſh and blood is put to. Saint <hi>Auguſt.</hi>
+making a repetition of all the commandements, ſayes, that there is none
+harder to be kept, then that of loving our enemies, and re<g ref="char:EOLhyphen"/>ſtraining the
+appetite from revenge againſt them that ſhall defame, and perſecute
+us.</p>
+            <p>
+               <hi>Quis cum invenerit inimicum, dimittet eum in via bona,</hi>
+ſaith <hi>Saul,</hi> who when he hath taken his enemy at an advantage, will
+let him goe in ſafetie.</p>
+            <pb n="8" facs="tcp:110014:9"/>
+            <p>What a hard matter will it bee then ac<g ref="char:EOLhyphen"/>cording to the command of
+the Apoſtle, heer in my text, to doe him good?</p>
+            <p>
+               <hi>Redime me a calumniis bominum ut cuſtodi<g ref="char:EOLhyphen"/>am mandata
+tua,</hi> keep me from the ſlanders of men that I may runne the way of thy
+commandements; whereby it ſeemes that <hi>David</hi> having ſet before him
+all the commandements of God, the ſlander of his enemes did ſo cow his
+reſolution, that he did, as it were, ſay, oh Lord! if thou doſt not
+redeeme me from this temptation, I ſhall hardly bee able to ſerve thee, as
+I would. 
+<note place="margin">Pſal. 92.</note> 
+               <hi>Paulò minus,</hi>
+ſaith <hi>David,</hi> againe upon the ſame occaſion, <hi>habitaſſet
+in in<g ref="char:EOLhyphen"/>ferno anima mea,</hi> a little more, and my ſoule had dwelt in hell,
+the motions of revenge put me into ſuch ſpeed, that if the hand of the Lord
+had not forcibly held me back, I had run in my fury headlong to hell.</p>
+            <p>But that which to man ſeemes impoſſi<g ref="char:EOLhyphen"/>ble, God makes eaſie;
+and therefore our Sa<g ref="char:EOLhyphen"/>viour, 
+<note place="margin">Matt. 11.</note> ſaies, <hi>jugum meum
+ſuarve, &amp; onus leve, My yoake is eaſie and my burthen light.</hi> He
+that <pb n="9" facs="tcp:110014:9"/>gives the commandement, will give us a<g ref="char:EOLhyphen"/>bility to
+performe it in ſome meaſure.</p>
+            <p>
+               <hi>Nolentem per venit ut vellet, volentem ſub<g ref="char:EOLhyphen"/>ſequitur, ne
+fruſtra vellet.</hi> Aug.</p>
+            <p>He will give us his preventing, and his ſubſequent grace to
+make us both willing and able to obey his command, in doing good unto all men,
+even our enemies.</p>
+            <p>
+               <hi>Iudicium ſine miſericordiâ qui non faciunt
+miſericordiam, Let him,</hi> ſaith Saint <hi>Iames, 
+<note place="margin">Jam. 2.13.</note> looke for no mercy in the
+world to come, that ſhewes no mercy in this life.</hi>
+            </p>
+            <p>One of the reaſons why <hi>Hamon,</hi> King
+<hi>Aſſuerus</hi> great favorite, found no pitty in Queen
+<hi>Heſters,</hi> nor the Kings breſt, though he begged it on his knees
+with teares in his eies, was, for that he had plotted ſuch a mer<g ref="char:EOLhyphen"/>cileſſe
+villanie, as to deſtroy all the Iewes, 
+<note place="margin">Heſt. 1.3.</note> both men, women, children,
+at one blow, and therefore hee was thought to deſerve no favor.</p>
+            <p>
+               <hi>Nathan</hi> propounding unto <hi>David</hi> that parable of
+him, that having many ſheepe of his owne, had robbed his neighbour of 
+<pb n="10" facs="tcp:110014:10"/>his onely ſheep, having no more beſides in all the
+world, was ſo incenſed againſt this ſo great an injurie, that he held
+him for the preſent unworthy of pardon. 
+<note place="margin">2. Sam. 12.</note> 
+               <hi>As the Lord liveth he
+ſhall die.</hi>
+            </p>
+            <p>The word of God cannot faile. <hi>Heaven and earth ſhall
+paſſe away, 
+<note place="margin">Matt. 24.35.</note> but my words,</hi> ſaith
+our Saviour, <hi>ſhall not paſſe away.</hi>
+            </p>
+            <p>And the Prophet <hi>Amos</hi> threatneth cruell perſons with
+moſt ſevere puniſhment. 
+<note place="margin">Am. cap. 4. &amp; cap. 6.</note>
+            </p>
+            <p>And <hi>Salomon</hi> ſaies <hi>that the hard heart ſhall have
+many a ſhrewd pang when hee lies upon his death bed.</hi> But our Saviour
+beſtowes a bleſ<g ref="char:EOLhyphen"/>ſing upon thoſe that are ready to do good, and to
+ſhew mercy unto others. 
+<note place="margin">Mat. 5.7.</note> 
+               <hi>Bleſſed are the
+mercifull, for they ſhall obtaine mercy.</hi>
+            </p>
+            <p>As we have therefore opportunity let us doe good to all men,
+eſpecially to them, who are of the houſehold of faith.</p>
+            <p>And ſo I come to the particular object, <hi>the houſhold of
+faith, eſpecially to them who are of the houſhold of faith.</hi>
+            </p>
+            <p>It was the cuſtome of the primitive Church to have their goods
+in common <pb n="11" facs="tcp:110014:10"/>that the neceſsities of every man might be
+ſupplied. <hi>As many as were poſſeſſors of lands and houſes,
+ſold them, 
+<note place="margin">Act. 4.34.35.</note> and brought the prices of
+the things that were ſold, and laid them down at the Apoſtles feet, and
+diſtribution was made un<g ref="char:EOLhyphen"/>to every man, according as he had need.</hi>
+            </p>
+            <p>But now men are ſo farre from doing ſo, that diſtribution
+might be made accor<g ref="char:EOLhyphen"/>ding to the wants of other men, that they doe not only rob
+them, but the Apoſtles alſo, nay God himſelfe. <hi>Will a man robbe
+God,</hi> ſayes the Prophet in the Lords name, <hi>Yet ye have robbed me: 
+<note place="margin">Mal. 3.8.</note> but ye ſay wherin have we
+robbed thee? in tythes and offerings.</hi> Mark what followes; <hi>Ye are
+curſed with a curſe, for yee have robbed me.</hi> I make no application of
+what I have ſaid, if any man here preſent be guilty of this ſinne, let
+him take heed that he partake not of the curſe. The words are Gods, <hi>Yee
+are curſed with a curſe,</hi> the reaſon is, 
+<note place="margin">Mal. 3.8.9.</note> becauſe yee have robbed the
+Lord, and it is plainly ſet downe wherein yee have robbed him, ye have robbed
+him in tythes and offerings.</p>
+            <pb n="12" facs="tcp:110014:11"/>
+            <p>Saint <hi>Paul</hi> ſayes, <hi>that they which miniſter about
+holy things, live of the ſacrifice, and they which wait on the Altar, are
+partakers of the Altar:</hi> even ſo hath the Lord ordained that <hi>they
+which preach the Goſpel ſhould live of the Goſpel.</hi> 
+               <note place="margin">1 Cor. 9.13.14</note> And here in my text hee
+doth en<g ref="char:EOLhyphen"/>joyne us, <hi>to doe good unto all men, eſpecially to thoſe who are
+of the houſhold of faith,</hi> &amp; preach the Goſpel and faith in Jeſus
+Chriſt.</p>
+            <p>All are to be relieved, eſpecially the faith<g ref="char:EOLhyphen"/>full. It is a
+cruell hard-heartedneſſe to ſee a Chriſtian in want, and not to relieve
+him. If I ſhould ſee a true profeſſor of faith in Chriſt Jeſus beg
+his bread, or walke un<g ref="char:EOLhyphen"/>clothed, and ſhould not feed him, and with mine owne
+garment cover his nakedneſſe, I were worthy to eate the bread of
+afflicti<g ref="char:EOLhyphen"/>on, and drinke the water of bitterneſſe, and to want a worſe
+garment then <hi>Adam</hi> had to cover his nakedneſſe. But alaſſe!
+charity now adayes is cold.</p>
+            <q>Probitas laudatur &amp; alget.</q>
+            <pb n="13" facs="tcp:110014:11"/>
+            <p>Where are the Hoſpitals, and the goods beſtowed in <hi>pios
+uſus,</hi> which were fre<g ref="char:EOLhyphen"/>quent heretofore? Where is hee that cryes out with
+<hi>Zacheus, Behold, 
+<note place="margin">Luke 19.8.</note> if J have done any man
+wrong,</hi> I <hi>am ready to returne him ſatisfa<g ref="char:EOLhyphen"/>ction, and halfe my
+goods</hi> I <hi>give unto the poore.</hi> What followes hereupon, but the
+bleſſing of all bleſſings, ſalvation. 
+<note place="margin">Verſe 9.</note> 
+               <hi>And Ieſus ſaid un<g ref="char:EOLhyphen"/>to
+him, this day is ſalvation come into thy houſe.</hi>
+            </p>
+            <p>Therefore while we have opportunity, let us doe good unto all men,
+eſpecially to thoſe that are of the houſhold of faith.</p>
+            <q>While we have opportunity.</q>
+            <p>Why not to day? <hi>To day if you will heare his voice, harden not
+your hearts.</hi> This is the day wherein you may exerciſe your chari<g ref="char:EOLhyphen"/>ty, and
+ſhew your love to the Goſpell, doe not neglect it, for perhaps you may
+never have the like. We are not ſure to live ano<g ref="char:EOLhyphen"/>ther day. 
+<note place="margin">Luke 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.20.</note> Remember how the foole in the Goſpell was deceived in
+his expectation. And therefore I exhort you to do it to day, <hi>while it is
+yet called to day,</hi> leſt yee dye before to morrow.</p>
+            <pb n="14" facs="tcp:110014:12"/>
+            <p>And truly I never knew greater reaſon for it. <hi>Res ipſa
+loquitur,</hi> if I ſhould bee ſi<g ref="char:EOLhyphen"/>lent, the knowne wants of our poore
+bre<g ref="char:EOLhyphen"/>thren in Ireland were motive ſufficient to put heat and life into a cold
+and dead pitty, into a frozen, benummed, and ſouleleſſe charity.</p>
+            <p>Now is a time to ſhew your love to the Goſpell, you that in
+ſhew are the great profeſſors of it, now you have an oppor<g ref="char:EOLhyphen"/>tunity to
+manifeſt your love to Chriſt Jeſus, and your zeale to his flocke, <hi>to
+the people of his paſture, and the ſheepe of his hands,</hi> who have not
+onely loſt their greene paſtures, and waters of comfort, but their wooll,
+skin, and fleſh, by the pawes and teeth of the papiſticall, Jeſuiticall
+Iriſh Wolves. I feare we are not all ſo valiant, as with our ſwords, with
+<hi>David,</hi> to endeavour to reſcue and deliver theſe harmleſſe
+Lambes out of the mouths of theſe Romiſh Beares and Lions, 
+<note place="margin">1. Sam. 17.35.</note> 
+               <hi>to take them by the
+beards, and ſmite them,</hi> as he did: yet let us labour by ſupplies &amp;
+maintenance, &amp; by our benevolence to <pb n="15" facs="tcp:110014:12"/>preſerve thoſe
+from the ſword, and hun<g ref="char:EOLhyphen"/>ger, and cold, that have eſcaped their fury.</p>
+            <p>I have read many ſad ſtories of the mi<g ref="char:EOLhyphen"/>ſeries of
+Chriſtians, but never the like to this of our brethren in Ireland. Whole
+fa<g ref="char:EOLhyphen"/>milies, nay whole pariſhes, nay whole townes, nay whole Counties, and in
+them (beſides thouſands of the Plebeians, and poorer ſort) many of the
+Gentry, and ſome of the Nobilitie, and beſt ranke, have been robbed, and
+tortured, and murthered, nay worſe then this, for there is a cruelty be<g ref="char:EOLhyphen"/>yond
+death, their naked bodies have beene throwne out into the open ayre, no man
+being ſuffered to bury them, and left a prey for Swine, Wolves, Dogs,
+Vultures, and Crowes, and other beaſts and birds of ra<g ref="char:EOLhyphen"/>ven and prey. Nay I
+can tell you greater cruelties yet, for there may be more cruelty ſhewed to
+the living, then to thoſe that are murthered in a uſuall way, either at
+their death, or after their death. When they have ſpoiled the profeſſors
+of the Goſpell of all their goods, (who were worth thouſands 
+<pb n="16" facs="tcp:110014:13"/>a little before) they have ſtript, and raviſht, and
+whipt them, and ſent them away na<g ref="char:EOLhyphen"/>ked, not ſparing women with childe, and
+giving ſucke, though of the beſt ranke, mer<g ref="char:EOLhyphen"/>cileſly expoſing them to
+hunger and cold in the midſt of winter, ſometimes in raine, ſometimes in
+ſtormes, and ſometimes in ſnow, whereby ſome hundreds, may I not ſay
+thouſands? have beene ſtarved, or frozen to death. Neither hath the houſe
+of God beene ſafe from their fury.</p>
+            <q>
+               <l>—Quis talia fando</l> 
+               <l>Temperet à lachrymis?</l>
+            </q>
+            <p>So as we may ſay with <hi>David, 
+<note place="margin">Pſal. 79.1, 2, 3.</note> O God, the Heathen
+are come into thine inheritance, thy holy Temple have they defiled, and made
+Ieruſa<g ref="char:EOLhyphen"/>lem a heape of ſtones, the dead bodies of thy ſer<g ref="char:EOLhyphen"/>vants have they
+given to be meat to the fowles of the aire, and the fleſh of thy Saints unto
+the beaſts of the land; their blood have they ſhed like water on every
+ſide of Ieruſalem, and there was no man to bury them.</hi> Wherefore it is
+time <pb n="17" facs="tcp:110014:13"/>for us to pray with him, 
+<note place="margin">Verſe 9.</note> 
+               <hi>Helpe us oh God of our
+ſalvation, for the glory of thy name.</hi> For they have not onely ſlaine
+thy people, and thy Prieſts, but have blaſphemed thy name, torne thy
+ſacred word, trod it under foote, rolled it up and downe in durty and mi<g ref="char:EOLhyphen"/>rie
+places, and then caſt it into the faces of thy Saints with diſdaine, and
+ſcorne.</p>
+            <p>And ſhall not we that are Chriſtians en<g ref="char:EOLhyphen"/>deavor to our utmoſt
+to preſerve the houſe of God, the people, the Prieſts, the word, the
+name, the glory of God from ſuch wickedneſſe, prophanation, and
+blaſphe<g ref="char:EOLhyphen"/>mie?</p>
+            <p>You that are the beſt Chriſtians ſhew your ſelves moſt
+forward in this worke, by your bountie ſhew your zeale to Chri<g ref="char:EOLhyphen"/>ſtian
+religion, to Chriſts deere ſervants, to the Goſpell of Jeſus Chriſt,
+to the name, and glory of God almighty.</p>
+            <p>Give me leave to alter Saint <hi>Pauls</hi> words alittle, and to
+ſay, <hi>Non quaero vos, ſed veſtra.</hi> 
+               <note place="margin">2 Cor. 12.14.</note> I deſire you not to
+venter the ſpilling of your bloods, or the loſſe of your lives, but 
+<pb n="18" facs="tcp:110014:14"/>your charity, your benevolence for the re<g ref="char:EOLhyphen"/>leife of your
+bretheren, your poore diſtreſ<g ref="char:EOLhyphen"/>ſed brethren in Ireland, and this I begg
+for the Goſpell ſake, for Jeſus Chriſt his ſake, for Gods ſake.</p>
+            <p>Now ſhew your faith by your works, you that boſt ſo much of
+your faith, other<g ref="char:EOLhyphen"/>wiſe we may ſuſpect the life of it, for faith without
+workes, 
+<note place="margin">Jam. 2.</note> is but a dead faith.</p>
+            <p>
+               <hi>Not circumciſion, 
+<note place="margin">Gal. 5.6.</note> nor uncircumciſion,</hi>
+ſayth Saint Paul, <hi>but faith that worketh by love.</hi> Faith that workes
+not by love, can no more ſave your ſoules, then a dead man can protect your
+bodies: ſhew then your faith by your love, and your love by your bounty, to
+cloath, and feede the diſtreſſed ſervants of Ieſus Chriſt.
+Beſides what I have alleadged already for this purpoſe, there is a motive
+ſufficient in the latter part of the precedent verſe, <hi>We ſhall reape
+if we faint not. Let us not bee weary of well doing, for in due ſeaſon wee
+ſhall reape, if wee faint not.</hi> And that is the laſt part of my Text, a
+mo<g ref="char:EOLhyphen"/>tive <pb n="19" facs="tcp:110014:14"/>to excite and ſtir us up to a timely and
+ſeaſon able benevolence. <hi>We ſhall reap if we faint not.</hi>
+            </p>
+            <p>So you ſee I deſire nothing but what tends to your owne
+good.</p>
+            <p>
+               <hi>He that is mercifull rewardeth his own ſoule,</hi> 
+               <note place="margin">Prov. 11.17.</note> ſaith the Wiſeman. Hee
+doth himſelfe a curteſie, he placeth his eſtate there, where the hand of
+the worſt fortune, or enemy, cannot reach it. He that hath money, goods,
+houſe, or land, 
+<q>Quantum non milvus oberret,</q> may in a ſhort time bee as
+much neceſſita<g ref="char:EOLhyphen"/>ted as ever <hi>Iob</hi> was. Riches have wings, and flie
+from us: if the element of fire or water prove our enemie, and ſet upon us,
+in an inſtant it may make us poor enough, but the ſword is the rougheſt
+gameſter of all, and that commonly ſweepes away the whole ſtake at once,
+without leaving us any thing whereby we may ſet up againe. 
+<q>Quas autem dederis ſemper habebis opes.</q> 
+               <pb n="20" facs="tcp:110014:15"/>So as we are ſure of nothing, but what we give away. 
+<note place="margin">Math. 19.20.</note> 
+               <hi>Lay not up therefore for
+your ſelves treaſure upon-earth, where the ruſt and moth doe corrupt, and
+where theeves breake through and ſteale: but lay up for your ſelves
+treaſures in heaven, where neither ruſt nor moth doth cor<g ref="char:EOLhyphen"/>rupt, and where
+theeves doe not breake through and ſteale.</hi>
+            </p>
+            <p>
+               <hi>Hee that pittieth the poore, 
+<note place="margin">Prov. 19.17.</note> lendeth to the Lord, and
+looke what he layeth out, it ſhall be paid him againe.</hi>
+            </p>
+            <p>Let therefore the light of your charity and bounty ſhine before
+men, that others by your example may bee ſtirred up to workes of pietie, that
+ſo your Father which is in heaven may be glorified, and your poore brethren
+in Chriſt Jeſus re<g ref="char:EOLhyphen"/>lieved.</p>
+            <p>Remember what the Prophet <hi>David</hi> ſayes, 
+<note place="margin">Pſal. 41.2.</note> 
+               <hi>Bleſſed is the man
+that provideth for the ſicke and needy, for the Lord ſhall deliver him in
+the time of trouble.</hi>
+            </p>
+            <p>And the greater proviſion you make for them, the greater ſhall
+be your deliverance <pb n="21" facs="tcp:110014:15"/>in your neceſſitie. For Saint
+<hi>Paul</hi> ſayes, <hi>that he that ſoweth little, ſhall reape little,
+and he that ſoweth plenteouſly ſhall reape plenteouſly. But yet let
+every man doe according as he is diſpoſed in his heart, not grudging, or of
+neceſsity, for God loveth a cheerfull giver.</hi> 
+               <note place="margin">2 Cor. 6.7.</note>
+            </p>
+            <p>
+               <hi>Be ready</hi> then and forward <hi>to give almes of thy goods,
+and turne not thy face from theſe poore ſoules, and then the face of the
+Lord ſhall not be turned away from thee.</hi>
+            </p>
+            <p>As therefore you love your brethren in Chriſt, as you love the
+Goſpel of Chriſt, as you love the name and glorie of Chriſt Jeſus, as
+you love your owne ſoules, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a
+li<g ref="char:EOLhyphen"/>berall manner extend your compaſſionate charitie for the reliefe of your
+poor diſtreſ<g ref="char:EOLhyphen"/>ſed brethren in Ireland, <hi>ſo you ſhall gather to your
+ſelves a good reward in the day of neceſsity,</hi> and in due ſeaſon
+reape the fruit of it by the mercy of our heavenly Father: to whom, with the
+Sonne and the Holy Ghoſt, be aſcribed all power, might, and majeſtie,
+both now and for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
